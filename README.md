@@ -2,6 +2,8 @@
 
 A Node.js web application that fetches a URL, replaces every instance of "Yale" with "Fale" in the document, and displays the modified content.
 
+<!-- CS1060 CI/CD Assignment - Minor change to trigger workflow -->
+
 ## Features
 
 - Simple and intuitive user interface
